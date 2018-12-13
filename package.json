@@ -1,0 +1,15 @@
+{
+  "name": "zutroi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node index"
+  },
+  "author": "Ofer Geva",
+  "license": "BSD",
+  "dependencies": {
+    "sqlite3": "^4.0.4"
+  }
+}
